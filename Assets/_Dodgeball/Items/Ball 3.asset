@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b309548f2b3013e41a89b943781b0f16, type: 3}
+  m_Name: Ball 3
+  m_EditorClassIdentifier: 
+  m_id: ball_3
+  m_name: Orange Ball
+  m_price: 1500
+  m_sprite: {fileID: 21300000, guid: b055dc5c917b0fc46aeed912b92b65f9, type: 3}
+  m_material: {fileID: 2100000, guid: 5da526e9186288d4a94da6030e489f42, type: 2}
+  m_speed: 75
+  m_distance: 70

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d8d79e2-8c62-4f8d-a989-e3167171c5f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DodgeBall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DodgeBall/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 3.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 3.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 4.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Balls/Ball 4.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 3.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 3.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 4.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Items/Skins/Skin 4.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Scenes/PreloaderScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dodgeball/Scenes/PreloaderScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/Item.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemShopObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemShopObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemsShopManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemsShopManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/ThrowingController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/ThrowingController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/TrajectorySimulation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/TrajectorySimulation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Epic Toon FX/Demo/Scripts/ETFXMouseOrbit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/DirectionArrow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/Examples/Dependancies/TextMesh Pro/Resources/Shaders/TMPro.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemsShopManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Epic Toon FX/Demo/Scripts/ETFXSceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Bot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/Examples/Dependancies/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/Examples/Dependancies/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Epic Toon FX/Demo/Scripts/ETFXProjectileScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/Examples/Dependancies/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DataSakura.JoyStick/Scripts/JoyStick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/Examples/Dependancies/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ShopObjectBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/APRController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/FeetContact.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemShopObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/ImpactContact.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Utilities/TweenAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/Editor/APR_Player_Settings_Injector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/TutorialTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ultimate Game Tools/MeshSimplify/Scripts/Simplifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/TutorialManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CrystalFramework/Utility/SafeArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/TrajectorySimulation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/ThrowingController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ShopObjectSkin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/SettingsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Epic Toon FX/Scripts/ETFXLightFade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/PressDetection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Epic Toon FX/Scripts/ETFXPitchRandomizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/KnockOutAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemSkin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/UserDataObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/Transition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/Transitions/ScreenTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Epic Toon FX/Demo/Scripts/ETFXLoopScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/JoyButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/HandContact.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/MobileInputHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/GameConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/Editor/DeletePlayerPrefs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/TutorialTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/ImpactContact.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/Bot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/DirectionArrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/SettingsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/ObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/PressDetection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/TutorialManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/TrajectorySimulation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/KnockOutAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/ThrowingController.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataSakura.JoyStick/Scripts/JoyStick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ShopObjectSkin.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemSkin.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ShopObjectBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/TutorialManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Utilities/TweenAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/SettingsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/APRController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Bot.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemShopObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/TrajectorySimulation.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/ThrowingController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Dodgeball/Scripts/Items/ItemsShopManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k3BHConD56omby6SpMhil5nN15" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8d79e2-8c62-4f8d-a989-e3167171c5f3" name="Default Changelist" comment="" />
+      <created>1604919307641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604919307641</updated>
+      <workItem from="1604919340002" duration="16700000" />
+      <workItem from="1606130180028" duration="109308000" />
+      <workItem from="1606994935901" duration="144208000" />
+      <workItem from="1608535889600" duration="19491000" />
+      <workItem from="1616430783273" duration="13647000" />
+      <workItem from="1616487449812" duration="17583000" />
+      <workItem from="1616597155104" duration="11547000" />
+      <workItem from="1616682120513" duration="10015000" />
+      <workItem from="1616745682914" duration="12667000" />
+      <workItem from="1617034953668" duration="11189000" />
+      <workItem from="1617111757693" duration="10409000" />
+      <workItem from="1617172700342" duration="15001000" />
+      <workItem from="1617261503680" duration="12210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="2108" height="735" key="DiffContextDialog" timestamp="1616602937180">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="93" y="93" width="2108" height="735" key="DiffContextDialog/0.0.2293.920@0.0.2293.920" timestamp="1616602937180" />
+    <state x="950" y="162" key="RiderGenerateDialog" timestamp="1616500290832">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="950" y="162" key="RiderGenerateDialog/0.0.2293.920@0.0.2293.920" timestamp="1616500290832" />
+    <state x="299" y="0" key="SettingsEditor" timestamp="1617179365812">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="299" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1617179365812" />
+    <state x="649" y="105" key="SettingsEditor/0.0.2293.920@0.0.2293.920" timestamp="1616750990867" />
+    <state x="110" y="78" width="2074" height="764" key="VCS.FileHistoryDialog" timestamp="1616683708164">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="110" y="78" width="2074" height="764" key="VCS.FileHistoryDialog/0.0.2293.920@0.0.2293.920" timestamp="1616683708164" />
+    <state x="418" y="150" width="777" height="530" key="find.popup" timestamp="1617265143868">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="418" y="150" width="777" height="530" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1617265143868" />
+    <state x="749" y="232" width="910" height="530" key="find.popup/0.0.2293.920@0.0.2293.920" timestamp="1616687214708" />
+    <state x="411" y="157" key="run.anything.popup" timestamp="1617115717564">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="157" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1617115717564" />
+    <state x="736" y="213" key="run.anything.popup/0.0.2293.920@0.0.2293.920" timestamp="1616753674386" />
+    <state x="810" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1616606321159">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="810" y="195" width="672" height="678" key="search.everywhere.popup/0.0.2293.920@0.0.2293.920" timestamp="1616606321159" />
+  </component>
+</project>

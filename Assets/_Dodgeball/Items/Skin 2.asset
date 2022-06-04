@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd065159222c508418ca7c62ff9c748c, type: 3}
+  m_Name: Skin 2
+  m_EditorClassIdentifier: 
+  m_id: skin_2
+  m_name: Green Body
+  m_price: 2000
+  m_sprite: {fileID: 21300000, guid: 474dfca33fb53c942908a5b56a0ddf8d, type: 3}
+  m_material: {fileID: 2100000, guid: 177c3191c233b1e4ca82feb3b399fabd, type: 2}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1046cd8-c606-4025-9690-8aca2bddfde0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Dodgeball/Scripts/Bot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dodgeball/Scripts/OutOfBounds.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dodgeball/Scripts/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dodgeball/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bowling3d/Scripts/ThrowingController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bowling3d/Scripts/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/Examples/Dependancies/Scripts/ObjectOutOfBound.cs" />
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/Examples/Dependancies/Scripts/PlayerOutOfBounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/OutOfBounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/ThrowingController.cs" />
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/HandContact.cs" />
+        <option value="$PROJECT_DIR$/Assets/APR Player Controller/Assets/APR Player/APR/Scripts/APRController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/Bot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dodgeball/Scripts/GameManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jmEuYdU1xxXcDOxJvLLoAKpCYj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1046cd8-c606-4025-9690-8aca2bddfde0" name="Default Changelist" comment="" />
+      <created>1604401093567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604401093567</updated>
+      <workItem from="1604401114470" duration="91347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="265" width="666" height="534" key="find.popup" timestamp="1604662421367">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="549" y="265" width="666" height="534" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604662421367" />
+    <state x="627" y="273" width="666" height="534" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604590744602" />
+    <state x="539" y="243" key="run.anything.popup" timestamp="1604679589394">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="539" y="243" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604679589394" />
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604410101072" />
+  </component>
+</project>

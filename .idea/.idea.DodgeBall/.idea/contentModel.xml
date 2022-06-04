@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Dodgeball.2119365526.00" t="ExcludeRecursive" />
+    <e p="E:\UnityProjects\DodgeBall" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Dodgeball" t="Include">
+          <e p="Materials" t="Include">
+            <e p="UIcutoutShaders" t="Include">
+              <e p="CustomMask.shader" t="Include" />
+              <e p="CustomMasked.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="Ball.cs" t="Include" />
+            <e p="Bot.cs" t="Include" />
+            <e p="DirectionArrow.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DeletePlayerPrefs.cs" t="Include" />
+            </e>
+            <e p="GameConfig.cs" t="Include" />
+            <e p="GameData.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="Items" t="Include">
+              <e p="Item.cs" t="Include" />
+              <e p="ItemBall.cs" t="Include" />
+              <e p="ItemShopObject.cs" t="Include" />
+              <e p="ItemSkin.cs" t="Include" />
+              <e p="ItemsShopManager.cs" t="Include" />
+              <e p="ShopObjectBall.cs" t="Include" />
+              <e p="ShopObjectSkin.cs" t="Include" />
+            </e>
+            <e p="KnockOutAnimation.cs" t="Include" />
+            <e p="PressDetection.cs" t="Include" />
+            <e p="SettingsController.cs" t="Include" />
+            <e p="ThrowingController.cs" t="Include" />
+            <e p="TrajectorySimulation.cs" t="Include" />
+            <e p="TutorialManager.cs" t="Include" />
+            <e p="TutorialTarget.cs" t="Include" />
+            <e p="Utilities" t="Include">
+              <e p="ObjectPool.cs" t="Include" />
+              <e p="TweenAnimation.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="APR Player Controller" t="Include">
+          <e p="Assets" t="Include">
+            <e p="APR Player" t="Include">
+              <e p="APR" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="APRController.cs" t="Include" />
+                  <e p="CameraController.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="APR_Player_Binder.cs" t="Include" />
+                    <e p="APR_Player_Settings_Injector.cs" t="Include" />
+                  </e>
+                  <e p="FeetContact.cs" t="Include" />
+                  <e p="HandContact.cs" t="Include" />
+                  <e p="ImpactContact.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Examples" t="Include">
+                <e p="Dependancies" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="FinalBoxButton.cs" t="Include" />
+                    <e p="FPSCounter.cs" t="Include" />
+                    <e p="MultiBoxButton.cs" t="Include" />
+                    <e p="MultiBoxDoorButton.cs" t="Include" />
+                    <e p="ObjectOutOfBound.cs" t="Include" />
+                    <e p="Platform.cs" t="Include" />
+                    <e p="PlayerOutOfBounds.cs" t="Include" />
+                    <e p="SingleBoxDoorButton.cs" t="Include" />
+                  </e>
+                  <e p="TextMesh Pro" t="Include">
+                    <e p="Fonts" t="Include">
+                      <e p="LiberationSans - OFL.txt" t="Include" />
+                    </e>
+                    <e p="Resources" t="Include">
+                      <e p="LineBreaking Following Characters.txt" t="Include" />
+                      <e p="LineBreaking Leading Characters.txt" t="Include" />
+                      <e p="Shaders" t="Include">
+                        <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+                        <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+                        <e p="TMP_Bitmap.shader" t="Include" />
+                        <e p="TMP_SDF Overlay.shader" t="Include" />
+                        <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+                        <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+                        <e p="TMP_SDF-Mobile.shader" t="Include" />
+                        <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+                        <e p="TMP_SDF-Surface.shader" t="Include" />
+                        <e p="TMP_SDF.shader" t="Include" />
+                        <e p="TMP_Sprite.shader" t="Include" />
+                        <e p="TMPro.cginc" t="Include" />
+                        <e p="TMPro_Properties.cginc" t="Include" />
+                        <e p="TMPro_Surface.cginc" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Sprites" t="Include">
+                      <e p="EmojiOne Attribution.txt" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="CrystalFramework" t="Include">
+          <e p="Utility" t="Include">
+            <e p="Demos" t="Include">
+              <e p="SafeAreaDemo.cs" t="Include" />
+              <e p="SafeAreaDemo.txt" t="Include" />
+            </e>
+            <e p="SafeArea.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DataSakura.JoyStick" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Examples" t="Include">
+                <e p="JoyStickExample.cs" t="Include" />
+                <e p="ModeExample.cs" t="Include" />
+                <e p="RecordExample.cs" t="Include" />
+                <e p="TypeExample.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Interfaces" t="Include">
+              <e p="IJoyStick.cs" t="Include" />
+              <e p="IJoyStickFrameInput.cs" t="Include" />
+              <e p="IJoyStickState.cs" t="Include" />
+            </e>
+            <e p="Joystick.cs" t="Include" />
+            <e p="Recorder" t="Include">
+              <e p="Editor" t="Include">
+                <e p="JoyStickInputEditor.cs" t="Include" />
+              </e>
+              <e p="JoyStickInput.cs" t="Include" />
+            </e>
+            <e p="Settings" t="Include">
+              <e p="JoyStickSettings.cs" t="Include" />
+            </e>
+            <e p="States" t="Include">
+              <e p="JoyStickBase.cs" t="Include" />
+              <e p="JoyStickPlayer.cs" t="Include" />
+              <e p="JoyStickRecorder.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Epic Toon FX" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ETFXButtonScript.cs" t="Include" />
+              <e p="ETFXFireProjectile.cs" t="Include" />
+              <e p="ETFXLoopScript.cs" t="Include" />
+              <e p="ETFXMouseOrbit.cs" t="Include" />
+              <e p="ETFXProjectileScript.cs" t="Include" />
+              <e p="ETFXSceneManager.cs" t="Include" />
+              <e p="ETFXTarget.cs" t="Include" />
+              <e p="VFX Library" t="Include">
+                <e p="ParticleEffectsLibrary.cs" t="Include" />
+                <e p="PEButtonScript.cs" t="Include" />
+                <e p="UICanvasManager.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="Combat" t="Include">
+              <e p="Combat FX.txt" t="Include" />
+            </e>
+            <e p="Environment" t="Include">
+              <e p="Environment FX.txt" t="Include" />
+            </e>
+            <e p="Interactive" t="Include">
+              <e p="Interactive FX.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="ETFXLightFade.cs" t="Include" />
+            <e p="ETFXPitchRandomizer.cs" t="Include" />
+            <e p="ETFXRotation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Ultimate Game Tools" t="Include">
+          <e p="AutomaticLOD" t="Include">
+            <e p="Editor" t="Include">
+              <e p="AutomaticLODEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AutomaticLOD.cs" t="Include" />
+            </e>
+          </e>
+          <e p="MeshSimplify" t="Include">
+            <e p="Editor" t="Include">
+              <e p="MeshSimplifyEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="MeshSimplify.cs" t="Include" />
+              <e p="MeshUniqueVertices.cs" t="Include" />
+              <e p="RuntimeMeshSimplifier.cs" t="Include" />
+              <e p="Simplifier.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DodgeBall.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
